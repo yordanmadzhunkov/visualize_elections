@@ -1,0 +1,2 @@
+02.10.2022/*.txt filter=lfs diff=lfs merge=lfs -text
+02.04.2023/*.txt filter=lfs diff=lfs merge=lfs -text
